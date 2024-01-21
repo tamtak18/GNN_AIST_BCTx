@@ -49,4 +49,10 @@ txHash: 0xf8fdccd33bad80d80ff8d6fd2a5ced8c5d9a1bc59f9b3a0c62a436fdfad316b4
 うまくいけば`data/output.csv`に取得した内容が格納されている。
 
 ## 備考
-履歴を取得する時間を変えたいときはindex.tsの72行目の0.0000001を変更する．
+・ 履歴を取得する時間を変えたいときはindex.tsの72行目の0.0000001を変更して，
+　　yarn
+    yarn start
+   を実行
+・npn，yarnをWindowsで実行するときは下記サイトを参照すること．
+ 　https://qiita.com/kurararara/items/21c70c4adfd3bb323412
+   https://qiita.com/taiponrock/items/9001ae194571feb63a5e
