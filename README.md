@@ -47,3 +47,6 @@ txHash: 0xf8fdccd33bad80d80ff8d6fd2a5ced8c5d9a1bc59f9b3a0c62a436fdfad316b4
 ```
 
 うまくいけば`data/output.csv`に取得した内容が格納されている。
+
+## 備考
+履歴を取得する時間を変えたいときはindex.tsの72行目の0.0000001を変更する．
