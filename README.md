@@ -58,6 +58,9 @@ yarn start
 ```
 を実行
 
+・Sepolia以外のブロックチェーンのAPIに向けたいときには下記のリストを参考にすること  
+       https://docs.infura.io/network-endpoints  
+
 ・npn，yarnをWindowsで実行するときは下記サイトを参照すること．  
-  https://qiita.com/kurararara/items/21c70c4adfd3bb323412  
-  https://qiita.com/taiponrock/items/9001ae194571feb63a5e  
+       https://qiita.com/kurararara/items/21c70c4adfd3bb323412  
+       https://qiita.com/taiponrock/items/9001ae194571feb63a5e  
